@@ -1,0 +1,1 @@
+web: gunicorn haunted_mansion.wsgi
